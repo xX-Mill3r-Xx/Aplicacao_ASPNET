@@ -1,0 +1,27 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+  background-color: grey;
+  font-family: Consolas;
+}
+
+.titulopadrao{
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
